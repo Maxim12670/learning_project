@@ -16,7 +16,7 @@ function App() {
         onClick={() => setIsGreen(!isGreen)}
         style={{ color: isGreen ? "green" : "red" }}
       >
-        ghghghghghghghghghghghghgh
+        jghghhjgghgkjggkj
       </h1>
       <h2>Sum {result}</h2>
       <button onClick={() => setNum(num + 1)}>➕</button>
